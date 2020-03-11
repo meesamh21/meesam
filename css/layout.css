@@ -414,12 +414,11 @@ ul#nav li.current a { color: #F06000; }
    position: absolute;
    left: 0;
    top: 0;
-
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+   background: #313131;
    display: inline-block;
-  	height: 42px;
+   height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
@@ -461,7 +460,7 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: cplusplues 2s ease;
 }
 .clang {
-    width: 90%;
+    width: 80%;
     -moz-animation: clang 2s ease;
     -webkit-animation: clang 2s ease;
 }
@@ -471,12 +470,12 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: vhdl 2s ease;
 }
 .python {
-    width: 80%;
+    width: 95%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
 .java {
-    width:95%;
+    width: 65%;
     -moz-animation: java 2s ease;
     -webkit-animation: java 2s ease;
 }
